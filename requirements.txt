@@ -1,11 +1,6 @@
-numpy==1.16.*
+numpy==1.9.*
 matplotlib==3.*
 pandas
-random
-math
-IPython.display
-time
-io
 threading
 calysto 
 tkinter
