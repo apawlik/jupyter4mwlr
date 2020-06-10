@@ -1,6 +1,5 @@
-numpy==1.9.*
-matplotlib==3.*
+numpy
+matplotlib
 pandas
-threading
 calysto 
-tkinter
+
